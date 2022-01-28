@@ -3,6 +3,7 @@ kind: Deployment
 metadata:
   name: go-server
 spec:
+dakdnakjsdnkjsa
   replicas: 2
   revisionHistoryLimit: 3
   selector:
